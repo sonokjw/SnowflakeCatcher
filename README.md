@@ -34,6 +34,7 @@ Your "snow" doesn't have to fall down. You could have bubbles that travel upward
 
 Samples of Student Work
 -----------------------
+[Ivan](http://greypoupon.github.io/SnowflakeCatcher/)  
 [Carl](http://cahouweling.github.io/SnowflakeCatcher/)  
 [Xuting](http://xiutingyu.github.io/SnowflakeCatcher/)  
 [Amy](http://amhe3.github.io/SnowflakeCatcher/)  
