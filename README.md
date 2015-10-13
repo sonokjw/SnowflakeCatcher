@@ -36,6 +36,7 @@ Samples of Student Work
 -----------------------
 [Helen](http://hezhang2.github.io/SnowflakeCatcher/)  
 [Elliot](https://elliottdebruin.github.io/SnowflakeCatcher/)  
+[Raul](http://raulrosen.github.io/SnowflakeCatcher/)  
 [Michelle](http://xmichellex.github.io/SnowflakeCatcher/)  
 [Thien](http://thtran1.github.io/SnowflakeCatcher/)  
 [Ivy](http://ivyla.github.io/SnowflakeCatcher/)  
