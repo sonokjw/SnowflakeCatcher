@@ -36,7 +36,6 @@ Samples of Student Work
 -----------------------
 [Terrance](http://auxoworks.github.io/SnowflakeCatcher/)  
 [Edmund](http://firework999363.github.io/SnowflakeCatcher/)  
-[Anthony](http://themonkeytoucher.github.io/Starfield/)  
 [Helen](http://hezhang2.github.io/SnowflakeCatcher/)  
 [Elliot](https://elliottdebruin.github.io/SnowflakeCatcher/)  
 [Raul](http://raulrosen.github.io/SnowflakeCatcher/)  
