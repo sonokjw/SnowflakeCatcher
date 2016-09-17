@@ -10,6 +10,7 @@ void setup()
 void draw()
 {
   //your code here
+  background(0, 0, 51);
   for(int i=0; i < snow.length; i++)
   {
     snow[i].erase();
@@ -22,6 +23,9 @@ void draw()
 void mouseDragged()
 {
   //your code here
+  noStroke();
+  fill(255, 255, 0);
+  rect(mouseX+5, mouseY+5, 10, 10, 10);
 }
 
 class Snowflake
@@ -39,36 +43,40 @@ class Snowflake
   void show()
   {
     //your code here
+    noStroke();
+    fill(255);
+    ellipse(myX, myY, 5, 5);
   }
   void lookDown()
   {
     //your code here
-    color below = get(myX, myY+8);
-    if(myY<0 || myY>400 || below != color(0))
+    if(get(myX, myY+7) == color(255, 255, 0))
     {
       isMoving = false;
     }
-    System.out.println(isMoving);
 
 
   }
   void erase()
   {
     //your code here
-    fill(0);
-    ellipse(myX, myY, 7, 7);
   }
   void move()
   {
     //your code here
     if(isMoving == true)
     {
-      myY ++;
+      myY +=2;
     }
   }
   void wrap()
   {
     //your code here
+    if(myY > 405)
+    {
+      myY = 0;
+      myY += 2;
+    }
   }
 }
 
